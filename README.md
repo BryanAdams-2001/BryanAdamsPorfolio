@@ -1,52 +1,28 @@
 Bryan Adams — Personal Portfolio Website
-A responsive personal portfolio site built with HTML and CSS as my first complete frontend project, designed to showcase my background, skills, and work as I grow into a full-stack developer.
+A responsive personal portfolio built from scratch with HTML, CSS, and vanilla JavaScript. No templates. No frameworks. Just fundamentals applied to something real.
 Live site: bryanadams-2001.github.io/BryanAdamsPortfolio
 
-What it is
-This is my first self-built portfolio landing page — no templates, no frameworks, no shortcuts. Every line of HTML and CSS was written by hand as a practical application of what I have been learning through the Meta Frontend Developer Certificate on Coursera and my own independent study.
-The site is fully responsive, accessible, and designed with a real user in mind — not just a developer checking boxes.
+What this is
+This is my first complete frontend project,  every line written by hand as a practical application of what I have been learning through the Meta Frontend Developer Certificate and daily independent study. Version 1. It will get better. I am sharing it now because I believe in building in public and showing the process, not just the result.
 
-What is included
+-What is included
 
 Responsive hero section with avatar, headline, and call-to-action buttons
-Slide-out side navigation menu with keyboard accessibility and overlay close
-Skills dropdown built with native HTML <details> and <summary>
+Slide-out navigation with keyboard accessibility and overlay close
+Skills dropdown built with native HTML details and summary elements
 About, Skills, Projects, FAQ, and Contact sections
-Clean contact section linking to email, LinkedIn, GitHub, and Instagram
-Smooth scroll behavior and mobile-first layout adjustments
-Vanilla JavaScript for menu open/close, overlay, and keyboard escape support
+Vanilla JavaScript for menu toggle, overlay, and keyboard escape support
+Mobile-first layout with smooth scroll behavior
 
 
 Tech stack
+HTML5, CSS3, Vanilla JavaScript, Google Fonts
 
-HTML5 — semantic structure and accessibility attributes
-CSS3 — custom properties, flexbox, grid, clamp(), responsive breakpoints
-Vanilla JavaScript — DOM manipulation, event listeners, aria attributes
-Google Fonts — Inter and Merriweather
-
-
-What I am working on next
-This project represents where I am right now — early in my frontend journey and building with the fundamentals. As I progress through my JavaScript coursework and go deeper into CSS and HTML I plan to:
-
-Refactor the CSS into a cleaner, more modular architecture
-Add JavaScript-powered interactivity to the projects section
-Integrate real project case studies as my portfolio grows
-Improve animation and transition polish
-Eventually, rebuild sections using React as I complete that portion of the certificate
-
-I am sharing this now because I believe in building in public. This is version 1. It will get better.
+What I learned and what I would fix
+Building this taught me more than any tutorial did. I made mistakes,  CSS specificity conflicts I had to debug line by line, JavaScript event listeners firing in the wrong order, and responsive breakpoints that looked right on desktop and broke on mobile. Each one taught me something I could not have learned by reading about it.
+Going forward, I want to refactor the CSS into a cleaner, modular structure, add real project case studies as my work grows, and eventually rebuild sections in React as I complete that portion of the certificate.
 
 What this shows
+Building a complete functional webpage from scratch, responsive design across all screen sizes, practical CSS custom properties and flexbox, DOM manipulation without libraries, and a real user-first mindset — designed for someone to actually use.
 
-Ability to build a complete, functional webpage from scratch
-Understanding of responsive design across desktop, tablet, and mobile
-Practical use of CSS custom properties, grid, and flexbox
-Vanilla JavaScript DOM manipulation without any libraries
-Attention to accessibility — aria labels, keyboard navigation, semantic HTML
-Real client mindset — designed for a human to use, not just a developer to admire
-
-
-Author
-Bryan Adams
-Computer Science Graduate — California State University, San Bernardino
-GitHub | LinkedIn | bryanjadams77@gmail.com
+Bryan Adams — CS Graduate, CSUSB | github.com/BryanAdams-2001 | bryanjadams77@gmail.com
